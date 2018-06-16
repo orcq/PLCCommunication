@@ -1,0 +1,10 @@
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\bin\Debug\PLCCommunication.exe
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\bin\Debug\PLCCommunication.pdb
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\obj\x86\Debug\PLCCommunication.Form1.resources
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\obj\x86\Debug\PLCCommunication.Properties.Resources.resources
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\obj\x86\Debug\PLCCommunication.exe
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\obj\x86\Debug\PLCCommunication.pdb
+D:\VS_PROJECT\PLCCommunication\PLCCommunication\obj\x86\Debug\PLCCommunication.Form2.resources

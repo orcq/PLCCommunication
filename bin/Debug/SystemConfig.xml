@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <IP>192.168.1.5</IP>
+  <Port>502</Port>
+  <Type>1</Type>
+  <StartAddress>104</StartAddress>
+  <Length>1</Length>
+  <Value>0</Value>
+</root>
